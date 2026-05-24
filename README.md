@@ -112,7 +112,7 @@ CHAT-APP/
 
 ## 1️. Clone the Repository
 
-git clone https://github.com/your-username/cloud-chat-app.git
+git clone https://github.com/anushreeurao/Cloud-Chat-Application.git
 
 ---
 
